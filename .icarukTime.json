@@ -1,0 +1,19 @@
+{
+    "idleHeartbeats": 491,
+    "navigatingHeartbeats": 401,
+    "totalCodingHeartbeats": 1874,
+    "languageHeartbeats": {
+        "javascript": 1816,
+        "json": 54,
+        "ignore": 4
+    },
+    "fileHeartbeats": {
+        "models/user.js": 216,
+        "config/config.json": 54,
+        "App.js": 664,
+        "routes/userRouter.js": 147,
+        "controllers/userController.js": 408,
+        "controllers/orderController.js": 381,
+        ".gitignore": 4
+    }
+}
