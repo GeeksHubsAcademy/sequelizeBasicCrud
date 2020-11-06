@@ -52,7 +52,7 @@ const OrderController = {
                 estado: "en tramite",
                 total: 50
             });
-                const order = await order.addOrder(req.body.products)
+                const order = await order.addProduct(req.body.products)
                 
                 res.send({
                     message: 'Order successfully completed'
